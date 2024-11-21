@@ -1,2 +1,2 @@
-# xm-record
+# xm-records
 record
